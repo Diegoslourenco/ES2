@@ -1,0 +1,20 @@
+Engenharia de Software 2
+Profª Denilce de Almeida
+ADS - FATEC Sorocaba
+vídeo base: https://www.youtube.com/watch?v=kO1PSkzTsYc&feature=youtu
+
+Atividade 1 - Palavras Chave
+
+0:00 - 3:30	- Modelos de software, sistemática 
+3:31 - 5:56	- Usabilidade, confiabilidade e funcionalidade
+5:57 - 6:19	- Especificação, desenvolvimento, validação e evolução
+6:20 - 8:46	- Ciência da computação, engenharia de software, desafios, custos, técnicas e métodos
+8:47 - 10:34	- Processo, Especificação, projeto, implementação, validação e evolução
+10:35 - 15:59	- Modelos de processo de software, abstração, cascata, incremental, reúso componentes
+16:00 - 17:04	- Atividades do processo
+17:05 - 18:15	- Ciclo de vida, requisitos, viabilidade, elicitação, especificação, validação
+18:16 - 19:44	- Projeto
+19:45 - 20:53	- Testes, Plano de testes
+20:54 - 22:42	- Evolução, mudanças
+
+
